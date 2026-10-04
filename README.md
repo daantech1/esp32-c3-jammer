@@ -44,7 +44,7 @@ If you would like permission to sell or commercially use this code, please conta
 
 Any unauthorized selling or commercial redistribution of this code is prohibited.
 
-If I discover that this code is being sold without my permission, I reserve the right to take appropriate action, including reporting the relevant accounts, repositories, listings, or other content to the platforms involved.
+If I discover that this code is being sold without my permission, I reserve the right to take appropriate action, including reporting the relevant accounts, repositories, listings, or other content to the platforms involved. And i may take down youre accounts.
 
 **Using or accessing this repository does not automatically grant you permission to resell its contents.**
 
