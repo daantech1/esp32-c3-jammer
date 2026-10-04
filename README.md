@@ -33,3 +33,19 @@ The author (**@daan_tech1**) does **NOT** take any responsibility for:
 
 ⚡ Use this code at your own risk.  
 You are solely responsible for how it is used.
+
+# ⚠️ WARNING — DO NOT RESELL THIS CODE
+
+This code may **not be sold, resold, redistributed for profit, or commercially exploited** without my explicit permission.
+
+If you would like permission to sell or commercially use this code, please contact me via TikTok:
+
+**TikTok: @daan_tech1**
+
+Any unauthorized selling or commercial redistribution of this code is prohibited.
+
+If I discover that this code is being sold without my permission, I reserve the right to take appropriate action, including reporting the relevant accounts, repositories, listings, or other content to the platforms involved.
+
+**Using or accessing this repository does not automatically grant you permission to resell its contents.**
+
+© All rights reserved.
